@@ -1,0 +1,12 @@
+com\bd1\m3\service\DebtorService.class
+com\bd1\m3\M3Application.class
+com\bd1\m3\service\dto\DebtorDTO.class
+com\bd1\m3\client\PaymentController.class
+com\bd1\m3\client\DebtorController.class
+com\bd1\m3\service\dto\UnitDTO.class
+com\bd1\m3\service\dto\PaymentResponseDTO.class
+com\bd1\m3\client\UnitController.class
+com\bd1\m3\config\DatabaseConfig.class
+com\bd1\m3\service\PaymentService.class
+com\bd1\m3\service\UnitService.class
+com\bd1\m3\service\dto\PaymentDTO.class
